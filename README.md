@@ -1,4 +1,4 @@
-# Social Media Mining
+
 # Author : Om Guru Naresh Sreenivasan
 
 '''Assignment 1
