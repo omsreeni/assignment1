@@ -1,2 +1,2 @@
-# assignment1
+# Social Media Mining
 Social Media Mining - assignment1
