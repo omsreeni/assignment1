@@ -63,8 +63,7 @@ def spell_chicago():
     You are strongly encouraged to use a ``for`` loop in this function.
     """
     # YOUR CODE HERE
-    
-    for i in 'Chicago':
+     for i in 'Chicago':
         print(i)
         
 
